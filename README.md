@@ -1,7 +1,7 @@
 # Online-Grocery-Shopping
 #FreshCart: Online Grocery Shopping Platform
 
-FreshCart is an online grocery shopping platform designed to provide users with a convenient and seamless shopping experience for their everyday needs. This repository contains the source code and documentation for the FreshCart platform.
+FreshCart is an online grocery shopping platform designed to provide users with a convenient and seamless shopping experience for their everyday needs. This repository contains the source code for the FreshCart platform.
 
 Features:
 1) User Authentication: Secure user authentication and authorization system.
