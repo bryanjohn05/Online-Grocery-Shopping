@@ -9,8 +9,6 @@ Features:
 3) Shopping Cart: Add items to a virtual shopping cart for easy checkout.
 4) Checkout Process: Smooth and secure checkout process with multiple payment options.
 5) Order Management: View and manage orders, including order history and status tracking.
-6) Promotions and Discounts: Apply promo codes and discounts for savings on purchases.
-7) Admin Dashboard: Admin panel for managing products, users, orders, and other system settings.
    
 Technologies Used:
 HTML, CSS, JavaScript
